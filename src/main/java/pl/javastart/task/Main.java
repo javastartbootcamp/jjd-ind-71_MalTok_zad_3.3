@@ -14,7 +14,5 @@ public class Main {
         double radius = 1.0;
         double circleField = calc.circleField(radius);
         System.out.println("Pole koła o promieniu " + radius + " wynosi: " + circleField);
-
-
     }
 }
